@@ -1,4 +1,13 @@
-# Ollama Sniffer
+<p align="center">
+  <img src="docs/banner.svg" alt="Ollama Sniffer" width="700"/>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"/></a>
+  <img src="https://img.shields.io/badge/python-3-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3"/>
+  <img src="https://img.shields.io/badge/Ollama-debug_proxy-white?style=flat-square" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/deps-zero-brightgreen?style=flat-square" alt="Zero dependencies"/>
+</p>
 
 Transparent debug proxy between any LLM client and Ollama. Logs full request/response payloads without modifying traffic.
 
